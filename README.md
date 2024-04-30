@@ -7,10 +7,11 @@ Para escribir se escibe normal si quiero **negrita** uso "**" antes y después d
 Esto es un sub <sub>indice</sub> por ejemplo -X<sub>2</sub>.
 Esto es un supra<sup>indice/<sup> por ejemplo -X<sup>2</sup>.
 para meter `codigo` usamos las comillas que solemos usar en ´`dplyr´.
-``
+```
 git status
 git add .
 git status
 git commit -m "Este es el proceso que tenemos que aprendernos"
-
+```
 Y si quereis poner un link tendréis que poner [Nombre que aparecerá](https://leonardo.ai/faq/)
+  
