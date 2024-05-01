@@ -6,6 +6,7 @@ Para escribir se escibe normal si quiero **negrita** uso "**" antes y después d
 **quiero que esté todo en cursiva y negrita*** pero si **quiero que toda la frase esté en negrita pero solo_alguna palabra_ en cursiva**
 Esto es un sub <sub>indice</sub> por ejemplo -X<sub>2</sub>.
 Esto es un supra<sup>indice/<sup> por ejemplo -X<sup>2</sup>.
+
 para meter `codigo` usamos las comillas que solemos usar en ´`dplyr´.
 ```
 git status
